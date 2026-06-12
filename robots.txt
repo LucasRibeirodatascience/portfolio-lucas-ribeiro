@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lucasribeirodatascience.github.io/portfolio-lucas-ribeiro/sitemap.xml
