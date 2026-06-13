@@ -7,7 +7,7 @@ Notas de revisão da reconstrução do portfólio profissional de Lucas Ribeiro 
 O portfólio foi reconstruído com base no arquivo `Portfólio Profissional.pdf`, usando como regra principal:
 
 - Não inventar informações.
-- Não publicar nada.
+- Publicar somente após aprovação do titular.
 - Não criar experiências fictícias.
 - Não criar cargos inexistentes.
 - Não posicionar Lucas como profissional sênior.
@@ -20,7 +20,7 @@ O portfólio foi reconstruído com base no arquivo `Portfólio Profissional.pdf`
 - Novo título SEO: `Lucas Ribeiro Alves Costa | Cientista de Dados | Previsão e Otimização`.
 - Remoção de `Engenheiro de IA`, `Engenheiro de Aprendizado de Máquina`, `Analista de Dados avançado` e qualquer narrativa de senioridade.
 - Novo posicionamento: Cientista de Dados com experiência em Aprendizado de Máquina, previsão, otimização e sistemas inteligentes para suporte à tomada de decisão.
-- Inclusão do email real: `lucas.ribeirocosta@hotmail.com`.
+- Inclusão do e-mail real: `lucas.ribeirocosta@hotmail.com`.
 - Atualização dos links de LinkedIn e GitHub conforme dados informados.
 
 ## Seções reconstruídas
@@ -89,12 +89,12 @@ Foram adicionadas ou reorganizadas:
 
 - O README foi reescrito para funcionar melhor como página inicial do repositório no GitHub.
 - O fluxo de trabalho de GitHub Pages foi mantido em `.github/workflows/deploy.yml`.
-- Nenhum push, commit ou publicação foi executado.
+- Publicação executada após aprovação, com commits no repositório e GitHub Pages via GitHub Actions.
 
-## Itens que exigem aprovação antes de publicar
+## Itens confirmados para publicação
 
-- Confirmar o nome final do repositório.
-- Confirmar se a URL desejada será `portfolio-lucas-ribeiro`.
-- Confirmar se o email deve ficar público no site.
-- Confirmar se o Mestrado em Energia Inteligente - Instituto Gnarus deve permanecer exatamente com essa nomenclatura.
-- Confirmar se o site deve ser publicado via GitHub Pages no GitHub configurado.
+- Repositório publicado como `portfolio-lucas-ribeiro`.
+- URL do GitHub Pages configurada para `https://lucasribeirodatascience.github.io/portfolio-lucas-ribeiro/`.
+- E-mail público mantido no site.
+- Mestrado em Energia Inteligente - Instituto Gnarus mantido com essa nomenclatura.
+- Site publicado via GitHub Pages no GitHub configurado.
