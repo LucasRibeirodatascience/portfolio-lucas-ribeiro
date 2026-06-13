@@ -1,33 +1,33 @@
-# Review Notes
+# Notas de Revisão
 
-Notas de revisão da reconstrução do portfolio profissional de Lucas Ribeiro Alves Costa.
+Notas de revisão da reconstrução do portfólio profissional de Lucas Ribeiro Alves Costa.
 
 ## Direção aplicada
 
-O portfolio foi reconstruído com base no arquivo `Portfólio Profissional.pdf`, usando como regra principal:
+O portfólio foi reconstruído com base no arquivo `Portfólio Profissional.pdf`, usando como regra principal:
 
 - Não inventar informações.
 - Não publicar nada.
 - Não criar experiências fictícias.
 - Não criar cargos inexistentes.
 - Não posicionar Lucas como profissional sênior.
-- Não posicionar Lucas como AI Engineer.
-- Direcionar o site para Data Scientist Junior, Data Scientist Pleno Inicial e Machine Learning Analyst.
+- Não posicionar Lucas como Engenheiro de IA.
+- Direcionar o site para Cientista de Dados Júnior, Cientista de Dados Pleno Inicial e Analista de Aprendizado de Máquina.
 
 ## Alterações principais
 
 - Reescrita completa da página inicial.
-- Novo título SEO: `Lucas Ribeiro Alves Costa | Data Scientist | Forecasting & Optimization`.
-- Remoção de `AI Engineer`, `Machine Learning Engineer`, `Data Analyst avançado` e qualquer narrativa de senioridade.
-- Novo posicionamento: Data Scientist com experiência em Machine Learning, Forecasting, Otimização e Sistemas Inteligentes para suporte à tomada de decisão.
+- Novo título SEO: `Lucas Ribeiro Alves Costa | Cientista de Dados | Previsão e Otimização`.
+- Remoção de `Engenheiro de IA`, `Engenheiro de Aprendizado de Máquina`, `Analista de Dados avançado` e qualquer narrativa de senioridade.
+- Novo posicionamento: Cientista de Dados com experiência em Aprendizado de Máquina, previsão, otimização e sistemas inteligentes para suporte à tomada de decisão.
 - Inclusão do email real: `lucas.ribeirocosta@hotmail.com`.
 - Atualização dos links de LinkedIn e GitHub conforme dados informados.
 
 ## Seções reconstruídas
 
-- Hero profissional.
+- Seção inicial profissional.
 - Sobre mim.
-- Stack tecnológica.
+- Tecnologias.
 - Experiência profissional.
 - Projeto principal EMS.
 - Pesquisa aplicada e inovação.
@@ -39,15 +39,15 @@ O portfolio foi reconstruído com base no arquivo `Portfólio Profissional.pdf`,
 
 ## Projeto principal EMS
 
-O EMS passou a ser apresentado como o principal diferencial técnico do portfolio, com destaque para:
+O EMS passou a ser apresentado como o principal diferencial técnico do portfólio, com destaque para:
 
-- Energy Management System.
+- Sistema de Gerenciamento de Energia.
 - Microrredes híbridas PV/BESS/Diesel.
-- Forecasting solar.
-- Reinforcement Learning.
+- Previsão solar.
+- Aprendizado por Reforço.
 - Simulações anuais de 8760 horas.
 - Comparação entre M1, M2 e M3.
-- Machine Learning aplicado à decisão operacional.
+- Aprendizado de Máquina aplicado à decisão operacional.
 - Otimização energética.
 
 Foi mantido cuidado para não afirmar implantação física operacional. O texto apresenta desenvolvimento metodológico, simulações e avaliação computacional em contexto de P&D.
@@ -56,8 +56,8 @@ Foi mantido cuidado para não afirmar implantação física operacional. O texto
 
 Foi criada a seção `Pesquisa aplicada e inovação`, conectando os dois eixos técnicos:
 
-- Mestrado UNIFEI em Engenharia de Produção, com Machine Learning, Explainable AI, SHAP, ensemble learning, processamento de sinais, análise de vibração e manufatura.
-- Mestrado em Energia Inteligente pelo Instituto Gnarus, com EMS, forecasting, reinforcement learning, otimização energética, PV, BESS e geradores diesel.
+- Mestrado UNIFEI em Engenharia de Produção, com Aprendizado de Máquina, IA Explicável, SHAP, métodos de conjunto, processamento de sinais, análise de vibração e manufatura.
+- Mestrado em Energia Inteligente pelo Instituto Gnarus, com EMS, previsão, aprendizado por reforço, otimização energética, PV, BESS e geradores diesel.
 
 ## Formação acadêmica
 
@@ -71,25 +71,25 @@ A formação foi atualizada para incluir:
 
 Os eventos deixaram de ser apenas uma lista e passaram a explicar a contribuição técnica de cada trabalho:
 
-- SBPO 2024: previsão de respostas estruturais em modelos de impressão 3D com Machine Learning.
-- SBPO 2025: integração de Machine Learning e NSGA-II para otimização no torneamento do aço AISI 52100.
+- SBPO 2024: previsão de respostas estruturais em modelos de impressão 3D com Aprendizado de Máquina.
+- SBPO 2025: integração de Aprendizado de Máquina e NSGA-II para otimização no torneamento do aço AISI 52100.
 - SBPO 2025: análise de dados e simulação para estratégia de corrida no GP da China de 2025.
-- COBEF 2025: previsão da vida útil da ferramenta com análise de vibração e Machine Learning.
+- COBEF 2025: previsão da vida útil da ferramenta com análise de vibração e Aprendizado de Máquina.
 
 ## Conquistas e certificações
 
 Foram adicionadas ou reorganizadas:
 
-- Top 28 entre mais de 10.000 participantes no Santander Data Science Bootcamp 2025.
+- Top 28 entre mais de 10.000 participantes no Bootcamp Santander de Ciência de Dados 2025.
 - 4º lugar em Hackathon de Big Data competindo individualmente.
-- Santander 2025 - Data Science with Python.
-- Machine Learning com Python - Udemy.
+- Santander 2025 - Ciência de Dados com Python.
+- Aprendizado de Máquina com Python - Udemy.
 
 ## GitHub e publicação
 
 - O README foi reescrito para funcionar melhor como página inicial do repositório no GitHub.
-- O workflow de GitHub Pages foi mantido em `.github/workflows/deploy.yml`.
-- Nenhum push, commit, deploy ou publicação foi executado.
+- O fluxo de trabalho de GitHub Pages foi mantido em `.github/workflows/deploy.yml`.
+- Nenhum push, commit ou publicação foi executado.
 
 ## Itens que exigem aprovação antes de publicar
 
