@@ -1,39 +1,39 @@
-# Lucas Ribeiro Alves Costa | Data Scientist
+# Lucas Ribeiro Alves Costa | Cientista de Dados
 
-Portfolio profissional de Lucas Ribeiro Alves Costa, Data Scientist com foco em:
+Portfólio profissional de Lucas Ribeiro Alves Costa, Cientista de Dados com foco em:
 
-- Machine Learning
-- Forecasting
+- Aprendizado de Máquina
+- Previsão
 - Otimização
-- Explainable AI
-- Energy Management Systems
+- IA Explicável
+- Sistemas de Gerenciamento de Energia
 - Sistemas inteligentes para suporte à tomada de decisão
 
 O objetivo do site é apresentar uma trajetória real e equilibrada entre experiência industrial, pesquisa aplicada e formação técnica, sem extrapolar cargos, experiências ou responsabilidades não informadas.
 
 ## Posicionamento
 
-**Headline:** Data Scientist | Machine Learning | Forecasting & Optimization
+**Posicionamento:** Cientista de Dados | Aprendizado de Máquina | Previsão e Otimização
 
-Lucas Ribeiro Alves Costa é Cientista de Dados com experiência em Machine Learning, Forecasting, Otimização e Sistemas Inteligentes para suporte à tomada de decisão. Atua no desenvolvimento de soluções baseadas em dados para previsão, otimização e inteligência operacional em aplicações industriais e energéticas.
+Lucas Ribeiro Alves Costa é Cientista de Dados com experiência em Aprendizado de Máquina, previsão, otimização e sistemas inteligentes para suporte à tomada de decisão. Atua no desenvolvimento de soluções baseadas em dados para previsão, otimização e inteligência operacional em aplicações industriais e energéticas.
 
-O portfolio foi direcionado para oportunidades de:
+O portfólio foi direcionado para oportunidades de:
 
-- Data Scientist Junior
-- Data Scientist Pleno Inicial
-- Machine Learning Analyst
+- Cientista de Dados Júnior
+- Cientista de Dados Pleno Inicial
+- Analista de Aprendizado de Máquina
 
 ## Conteúdo do site
 
-- Hero profissional com headline, proposta de valor e métricas reais.
+- Seção inicial profissional com posicionamento, proposta de valor e métricas reais.
 - Sobre mim com narrativa equilibrada entre pesquisa aplicada e experiência industrial.
-- Stack tecnológica: Python, Pandas, NumPy, Scikit-Learn, TensorFlow, SHAP, Stable Baselines3, Streamlit, Git e GitHub.
-- Experiência profissional na PS Soluções como Data Scientist.
+- Tecnologias: Python, Pandas, NumPy, Scikit-Learn, TensorFlow, SHAP, Stable Baselines3, Streamlit, Git e GitHub.
+- Experiência profissional na PS Soluções como Cientista de Dados.
 - Projeto principal: EMS para microrredes isoladas híbridas PV/BESS/Diesel.
-- Pesquisa aplicada e inovação: manufatura com Explainable AI e energia inteligente com EMS.
+- Pesquisa aplicada e inovação: manufatura com IA Explicável e energia inteligente com EMS.
 - Formação acadêmica: UNIFEI, Instituto Gnarus e doutorado em andamento.
 - Publicações e eventos científicos com contribuição técnica de cada trabalho.
-- Conquistas competitivas em Data Science e Big Data.
+- Conquistas competitivas em Ciência de Dados e Big Data.
 - Certificações.
 - Contato com email, LinkedIn e GitHub.
 
@@ -82,7 +82,7 @@ http://localhost:8000
 
 ## GitHub Pages
 
-O repositório inclui deploy automático por GitHub Actions:
+O repositório inclui publicação automática por GitHub Actions:
 
 ```text
 .github/workflows/deploy.yml
@@ -90,18 +90,18 @@ O repositório inclui deploy automático por GitHub Actions:
 
 Para publicar:
 
-1. Criar ou usar o repositório do portfolio no GitHub.
+1. Criar ou usar o repositório do portfólio no GitHub.
 2. Enviar os arquivos para a branch `main`.
 3. Em `Settings` > `Pages`, selecionar `GitHub Actions`.
 4. Fazer push na branch `main`.
 
 ## Links configurados
 
-- Email: lucas.ribeirocosta@hotmail.com
+- E-mail: lucas.ribeirocosta@hotmail.com
 - LinkedIn: https://linkedin.com/in/lucas-ribeiro-datascientist/
 - GitHub: https://github.com/LucasRibeirodatascience
 - URL-base sugerida para GitHub Pages: https://lucasribeirodatascience.github.io/portfolio-lucas-ribeiro/
 
-## Status
+## Situação
 
-Projeto publicado no GitHub Pages com deploy automático via GitHub Actions.
+Projeto publicado no GitHub Pages com publicação automática via GitHub Actions.
