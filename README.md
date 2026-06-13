@@ -35,7 +35,7 @@ O portfólio foi direcionado para oportunidades de:
 - Publicações e eventos científicos com contribuição técnica de cada trabalho.
 - Conquistas competitivas em Ciência de Dados e Big Data.
 - Certificações.
-- Contato com email, LinkedIn e GitHub.
+- Contato com e-mail, LinkedIn e GitHub.
 
 ## Fontes usadas
 
