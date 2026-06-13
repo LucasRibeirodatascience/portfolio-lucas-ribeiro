@@ -56,7 +56,7 @@ Nenhuma experiência, cargo, publicação, DOI, link de repositório específico
 │       └── deploy.yml
 ├── assets/
 │   ├── favicon.svg
-│   └── hero-data-ai.png
+│   └── hero-data-ai.svg
 ├── .nojekyll
 ├── 404.html
 ├── index.html
@@ -104,4 +104,4 @@ Para publicar:
 
 ## Status
 
-Projeto preparado localmente para revisão. Nenhuma publicação foi executada.
+Projeto publicado no GitHub Pages com deploy automático via GitHub Actions.
